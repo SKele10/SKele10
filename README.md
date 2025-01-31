@@ -65,4 +65,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=skele10&show_icons=true&locale=en&layout=compact" alt="skele10" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skele10&show_icons=true&locale=en" alt="skele10" /></p>
